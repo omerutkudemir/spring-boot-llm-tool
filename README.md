@@ -1,8 +1,5 @@
 # 🍃 Spring Boot AI Assistant (Hybrid: RAG + Fine-Tuning)
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-[![Llama 3.1](https://img.shields.io/badge/Model-Llama%203.1-blue)](https://ai.meta.com/llama/)
-[![Powered by Unsloth](https://img.shields.io/badge/Optimization-Unsloth-green)](https://github.com/unslothai/unsloth)
 
 > **Language Selection / Dil Seçimi:**
 >
